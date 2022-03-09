@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">CotMaker</string>
+    <!-- description -->
+    <string name="app_desc">Makes a CoT</string>
+    <string name="enter_coordinates_below">Enter coordinates below</string>
+    <string name="paste_your_lat_lng_name">Paste your LAT,LNG,NAME</string>
+    <string name="friend">FRIEND</string>
+    <string name="hostile">HOSTILE</string>
+    <string name="unknown">UNKNOWN</string>
+    <string name="neutral">NEUTRAL</string>
+
+
+</resources>
